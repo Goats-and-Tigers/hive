@@ -1,0 +1,19 @@
+{
+  "name": "www",
+  "version": "1.0.0",
+  "description": "<div align=\"center\">",
+  "main": "index.js",
+  "dependencies": {
+    "comlink": "^4.3.1",
+    "path": "^0.12.7",
+    "vite": "^2.9.9",
+    "vite-plugin-wasm-pack": "^0.1.12",
+    "wasm-feature-detect": "^1.2.11",
+    "wasm-worker": "^0.4.0"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Ashtyn Morel-Blake <ashtyn@ashtyn.land>",
+  "license": "MIT"
+}
