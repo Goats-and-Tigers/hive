@@ -1,0 +1,3 @@
+[submodule "bees-engine"]
+	path = bees-engine
+	url = https://github.com/ashtyn3/bees-engine

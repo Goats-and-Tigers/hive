@@ -12,7 +12,10 @@
     "wasm-worker": "^0.4.0"
   },
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "dev": "vite"
+  },
+  "devDependencies": {
+    "vite": "^2.9.9"
   },
   "author": "Ashtyn Morel-Blake <ashtyn@ashtyn.land>",
   "license": "MIT"
