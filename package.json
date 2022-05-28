@@ -12,9 +12,11 @@
     "wasm-worker": "^0.4.0"
   },
   "scripts": {
-    "dev": "vite"
+    "dev": "vite",
+    "build": "esbuild src/*  --outdir=dist --watch"
   },
   "devDependencies": {
+    "esbuild": "^0.14.39",
     "vite": "^2.9.9"
   },
   "author": "Ashtyn Morel-Blake <ashtyn@ashtyn.land>",
